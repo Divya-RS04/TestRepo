@@ -8,6 +8,9 @@ This project analyzes SpaceX Falcon 9 launch data to identify factors that influ
 
 ### Objectives
 Analyze historical launch data
+
 Identify key factors affecting landing success
+
 Perform data visualization and exploratory analysis
+
 Build and evaluate machine learning models for prediction
