@@ -24,7 +24,7 @@ This project analyzes SpaceX Falcon 9 launch data to identify factors that influ
 - Certain orbit types (LEO, SSO, GEO) show higher success rates
 - Success rate improves over time with increased launches
 - Heavier payloads influence outcomes differently across orbit types
-- 
+  
 ### Technologies Used
 - Python (Pandas, NumPy, Scikit-learn)
 - SQL
